@@ -18,7 +18,7 @@ But this thought of changing the past that the present actions made more curious
 
 The Block Universe theory suggests that the time is a dimension(4th dimension) and the past , present and future all exist simultaneously.
 
-![image description](_posts/images/block-universe.jpg)
+![image description](/_posts/images/block-universe.jpg)
 
 According to the theory, time do not flow , which means if we can perceive time as a fourth dimension, we could travel back and forth. There are several contradictions and paradoxes related with this theory. I did not delve into any of those contradictions much as I wanted to figure out the possibility of this in some way. I was thinking of movie scenes with similar moments and found a moment from Interstellar relating with this.
 
