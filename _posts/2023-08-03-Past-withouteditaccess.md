@@ -24,11 +24,11 @@ According to the theory, time do not flow , which means if we can perceive time 
 
 SPOILERS AHEAD* In the movie Interstellar, the protagonist Cooper an ex NASA Pilot gets a gravitational anomaly in his daughter bedroom that leds him to a secret mission by NASA to save earth by finding habitable planets outside. He leaves his daughter despite she rebelling his decision. Only after leaving, he realizes going back to earth is out of his reach and saving earth and his daughter is difficult. After failed tries he enters a tesseract inside a black hole. Inside it he would be able to perceive different moments in his daughter bedroom. He would be capable of travelling to and forth in the 4-dimension tesseract and witnessing various moments of his daughter life.
 
-![Block Universe](/assets/posts/pastwithouteditaccess/tesseract.jpg)
+![tesseract](/assets/posts/pastwithouteditaccess/tesseract.jpg)
 
 At first Cooper thinks of changing the past by sending his daughter signals in Morse code translating to ‘STAY’ when he is about to leave his daughter, yet the efforts go in vain. Then TARS, a tactical assistance bot tells Cooper that He is not here to change the past.Then Cooper realizes of what led him to here — Himself. Then he goes back and sends the gravitational anomalies in binary codes encoding the information of the secret NASA station leading himself to the secret mission.
 
-![Block Universe](/assets/posts/pastwithouteditaccess/sand-interstellar.jpg)
+![sand-signals](/assets/posts/pastwithouteditaccess/sand-interstellar.jpg)
 
 I am unsure with my interpretation of this thought correlation with a physics theory and a science-fiction movie scene is proper. But I know there are similar patterns of models and analogies can be compared with this idea. I was thinking of how to apply this, at least in an abstract manner or through a thought experiment.
 
