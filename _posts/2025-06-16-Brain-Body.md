@@ -5,6 +5,12 @@ categories: [health]
 tags: [health]
 ---
 
+I was waiting outside a hospital as an attendant and was listening to this podcast 'Optimizing Brain-Body-Connection and health' by Andrew Huberman. I found the protocols mentioned were superful and thought I could summarizing it.
+
+I have used ai transcriptions tools and chatgpt for ease of writing/typing and formatting. 
+
+I found summarizing this episode helpful and might be helpful for you too. Also listen to the whole episode when you have time
+
 
 Detailed Summary of Andrew Huberman's Podcast on the Brain-Body Connection with the help of transcription tools and chatgpt.
 
@@ -12,6 +18,8 @@ In this episode, Andrew Huberman explores the intricate relationship between the
 
 
 ---
+
+So the brain and the body has a significant connection and that everyone of us knows but knowing the specifics and how it works can help you utilise them to maximize the health and overall life.
 
 ### 1. The Vagus Nerve and Emotional Regulation
 
@@ -23,6 +31,22 @@ In this episode, Andrew Huberman explores the intricate relationship between the
 
 - Facilitates two-way communication between the brain and the body's internal organs.
 
+***How to simulate Vagus Nerve***
+ * Deep and Slow Breathing:
+   * Practice diaphragmatic (belly) breathing.
+   * Focus on making your exhales longer than your inhales (e.g., inhale for 4 counts, exhale for 6 counts). This is one of the most direct ways to activate the vagus nerve.
+ * Humming, Singing, or Chanting:
+   * These activities vibrate your vocal cords, which stimulates branches of the vagus nerve in your throat.
+   * Try humming your favorite tune or chanting "Om."
+ * Gargling:
+   * Gargle with water vigorously. This also engages the muscles in your throat that are innervated by the vagus nerve.
+ * Cold Exposure (Brief):
+   * Splash cold water on your face.
+   * Take a brief cold shower (even just 30-60 seconds at the end of a warm shower).
+   * Apply an ice pack to your neck or chest for a few minutes. 
+
+Also here's a YouTube video you can check
+[link text]({{ page.link }}) 
 
 **Misconceptions About Vagus Nerve Stimulation:**
 
