@@ -46,7 +46,7 @@ So the brain and the body has a significant connection and that everyone of us k
    * Apply an ice pack to your neck or chest for a few minutes. 
 
 Also here's a YouTube video you can check
-[link text](https://youtu.be/LnV3Q2xIb1U?si=WUjjxLF7YPlz51hF)
+[YouTube Video](https://youtu.be/LnV3Q2xIb1U?si=WUjjxLF7YPlz51hF)
 
 **Misconceptions About Vagus Nerve Stimulation:**
 
