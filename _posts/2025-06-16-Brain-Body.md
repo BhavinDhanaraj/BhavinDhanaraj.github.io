@@ -5,7 +5,7 @@ categories: [health]
 tags: [health]
 ---
 
-I was waiting outside a hospital as an attendant and was listening to this podcast 'Optimizing Brain-Body-Connection and health' by Andrew Huberman. I found the protocols mentioned were superful and thought I could summarizing it.
+I was waiting outside a hospital as an attendant and was listening to this podcast 'Optimizing Brain-Body-Connection and health' by Andrew Huberman. I found the protocols mentioned were super useful and thought I could summarizing it.
 
 I have used ai transcriptions tools and chatgpt for ease of writing/typing and formatting. 
 
