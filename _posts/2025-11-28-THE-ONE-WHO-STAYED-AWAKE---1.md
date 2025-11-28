@@ -6,6 +6,9 @@ categories: [stories , The Man Who Stayed Awake)
 tags: [thriller, mystical , consciousnes]
 ---
 
+![Spirit of sacred groves](/assets/posts/themanwhostayedawake/sacred-groves.jpg)
+
+
 The breeze outside our house always carried the smell of wet soil and coconut husk, like the earth was breathing softly in its sleep.
 Inside, my sister and I were doing what we always did at night when Appa wasn’t around —
 annoying each other until one of us screamed first.
