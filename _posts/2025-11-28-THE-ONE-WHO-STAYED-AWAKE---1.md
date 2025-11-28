@@ -1,7 +1,8 @@
 ---
-title: "1.THE NIGHT THAT WOULD NOT END"
+title: "THE MAN WHO STAYED AWAKE 
+-  1.THE NIGHT THAT WOULD NOT END"
 date: 2025-11-28 01:46:00 +0000
-categories: [stories]
+categories: [stories , The Man Who Stayed Awake)
 tags: [thriller, mystical , consciousnes]
 ---
 
