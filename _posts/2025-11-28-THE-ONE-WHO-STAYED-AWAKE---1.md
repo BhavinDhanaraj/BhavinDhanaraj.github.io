@@ -1,12 +1,12 @@
 ---
-title: "THE NIGHT THAT WOULD NOT END"
+title: "SLEEP EATING DEMON - THE NIGHT THAT WOULD NOT END"
 date: 2025-11-28 01:46:00 +0000
 categories: [stories , The Man Who Stayed Awake]
 tags: [thriller, mystical , consciousnes]
 ---
 
 
-### SLEEP EATING DEMON - 1. THE NIGHT THAT WOULD NOT END
+
 
 ![Spirit of sacred groves](/assets/posts/themanwhostayedawake/IMG_20251129_013938.jpg)
 
