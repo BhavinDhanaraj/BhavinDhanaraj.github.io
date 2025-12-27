@@ -1,3 +1,11 @@
+---
+title: “The Man Who Couldn’t Sleep When It Was Dark"
+date: 2025-12-25 00:21:00 +0000
+categories: [short stories]
+tags: [night]
+---
+
+
 # The Man Who Couldn’t Sleep When It Was Dark
 
 *Somewhere in the deserts of Rajasthan*
