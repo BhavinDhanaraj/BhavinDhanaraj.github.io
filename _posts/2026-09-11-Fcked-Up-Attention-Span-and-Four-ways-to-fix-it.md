@@ -107,3 +107,9 @@ Just like saving money, we should be saving ourselves some attention.
 Our attention is constantly being pulled in a thousand different directions. Maybe the goal isn't to become productive every second of the day.
 
 Maybe the goal is simply to have the ability to **choose where our attention goes.**
+
+
+References :
+[Harvard - Tips to Improve Concentration](https://www.health.harvard.edu/mind-and-mood/tips-to-improve-concentration)
+[Dopamine affects how brain decides whether a goal is worth the effort](https://www.nih.gov/news-events/nih-research-matters/dopamine-affects-how-brain-decides-whether-goal-worth-effort)
+[Sleep deprivation reduces default mode network connectivity and anti-correlation during rest and task performance](https://www.sciencedirect.com/science/article/abs/pii/S1053811911009189)
