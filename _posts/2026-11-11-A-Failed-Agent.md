@@ -1,6 +1,5 @@
 
 ---
-layout: post
 title: "THE FAILED AGENT"
 date: 2026-11-12 00:00:00 +0530
 categories: [stories]
