@@ -1,6 +1,6 @@
 
 ---
-title: A Failed Agent
+title: "A Failed Agent"
 date: 2026-11-11
 categories: Short Story
 tags:
