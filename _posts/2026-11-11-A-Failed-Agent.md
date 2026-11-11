@@ -1,5 +1,5 @@
 
----
+---(tags to be edited)
 title: "A-Failed-Agent"
 date: 2026-11-11 00:26:00 +0000
 categories: [short story]
