@@ -1,10 +1,14 @@
 
 ---
-title: "THE FAILED AGENT"
-date: 2026-11-12 00:00:00 +0530
-categories: [stories]
-tags: [thriller, psychological, fiction, vengeance]
-description: "A man who spent his childhood fearing violence grows up to become an instrument of it."
+title: A Failed Agent
+date: 2026-11-11
+categories: Short Story
+tags:
+  - guilt
+  - violence
+  - past
+  - life
+  - decisions
 ---
 
 "I had to give in. I wanted to stay alive more than I wanted to complete my mission."
