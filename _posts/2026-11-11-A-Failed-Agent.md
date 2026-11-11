@@ -1,14 +1,9 @@
 
 ---
-title: "A Failed Agent"
-date: 2026-11-11
-categories: Short Story
-tags:
-  - guilt
-  - violence
-  - past
-  - life
-  - decisions
+title: "A-Failed-Agent"
+date: 2026-11-11 00:26:00 +0000
+categories: [short story]
+tags: [guilt, regret , violence, spy]
 ---
 
 "I had to give in. I wanted to stay alive more than I wanted to complete my mission."
